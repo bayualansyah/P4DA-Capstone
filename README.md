@@ -1,2 +1,2 @@
 # P4DA-Capstone
-Merupakan Repository yang berisi Capstone Project dalam Course Python for Data Analysts di [Algoritma Data Science School](https://algorit.ma)
+Repository containing Capstone Projects in Courses Python for Data Analysts at [Algoritma Data Science School](https://algorit.ma)
